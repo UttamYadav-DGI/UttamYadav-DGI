@@ -59,21 +59,6 @@ I am consistent with problem-solving and have solved over **350+ problems**.
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UttamYadav-DGI&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="180" alt="Uttam's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UttamYadav-DGI&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="180" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=UttamYadav-DGI&style=flat-square&color=blue" alt="Profile Views" />
-</div>
-
----
-
 <div align="center">
   <i>Let's connect and build something unique!</i>
 </div>
