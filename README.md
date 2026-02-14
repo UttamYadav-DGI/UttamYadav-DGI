@@ -12,6 +12,9 @@
     <a href="https://leetcode.com/u/Uttamyadav/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
     </a>
+    <a href="mailto:uttamyadav9560@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
   </p>
 
 </div>
@@ -24,10 +27,10 @@
 
 I am a passionate developer focused on building scalable web applications and solving complex algorithmic problems.
 
-- 🔭 I’m currently working on unique **Web Development** projects.
-- 🌱 I’m currently mastering the **MERN Stack** (MongoDB, Express, React, Node).
-- 💻 I have a strong foundation in **Data Structures & Algorithms**.
-- 👯 I’m looking to collaborate on **Open Source** projects and React-based apps.
+* 🔭 I’m currently working on  **Web Development** projects.
+* 🌱 I’m currently mastering the **MERN Stack** (MongoDB, Express, React, Node).
+* 💻 I have a strong foundation in **Data Structures & Algorithms**.
+* 👯 I’m looking to collaborate on **Open Source** projects and React-based apps.
 
 <br clear="right"/>
 
@@ -37,9 +40,9 @@ I am a passionate developer focused on building scalable web applications and so
 
 <div align="center">
 
-| **Languages** | **Frontend** | **Backend & DB** |
-|:---:|:---:|:---:|
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <br> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+|                                                                                                                                                                    **Languages**                                                                                                                                                                   |                                                                                                                                                                  **Frontend**                                                                                                                                                                  |                                                                                                         **Backend & DB**                                                                                                         |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white) <br> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB) <br> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white) |
 
 </div>
 
@@ -49,7 +52,7 @@ I am a passionate developer focused on building scalable web applications and so
 
 I am consistent with problem-solving and have solved over **350+ problems**.
 
-> **Badges Earned:** 🏅 50 Days Badge &nbsp;•&nbsp; 🏅 100 Days Badge
+> **Badges Earned:** 🏅 50 Days Badge • 🏅 100 Days Badge
 
 <div align="center">
   <a href="https://leetcode.com/u/Uttamyadav/">
@@ -62,7 +65,3 @@ I am consistent with problem-solving and have solved over **350+ problems**.
 <div align="center">
   <i>Let's connect and build something unique!</i>
 </div>
-<!---
-UttamYadav-DGI/UttamYadav-DGI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
