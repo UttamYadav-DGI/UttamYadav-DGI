@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/uttam-yadav-01b629256" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/UttamYadav" target="_blank">
+  <a href="https://github.com/UttamYadav-DGI" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Uttamyadav/" target="_blank">
@@ -30,7 +30,7 @@
 </p>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=UttamYadav&label=Profile%20views&color=3F51B5&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=UttamYadav-DGI&label=Profile%20views&color=3F51B5&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -140,24 +140,19 @@ Hey! I'm **Uttam Yadav**, a passionate **Full Stack Developer** from Greater Noi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=UttamYadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=UttamYadav&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=UttamYadav-DGI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  
+  <img width="49%" src="https://streak-stats.demolab.com/?user=UttamYadav-DGI&theme=tokyonight&hide_border=true" />
 
-<br/>
+  <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UttamYadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UttamYadav-DGI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UttamYadav&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
 
 ## ⚡ LeetCode Stats
 
@@ -189,7 +184,7 @@ Hey! I'm **Uttam Yadav**, a passionate **Full Stack Developer** from Greater Noi
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UttamYadav&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UttamYadav-DGI&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
